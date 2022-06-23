@@ -3,7 +3,8 @@
     padding: 0;
 }
 body{
-    background: linear-gradient(rgba(255,165,0), rgba( 0,0,0 ));
+    background: linear-gradient(rgba(255,165,0) 100%, rgba( 0,0,0 ) 0.5%);
+    filter: blur(5px);
 }
 header{
     background-color: white;

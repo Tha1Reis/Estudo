@@ -1,12 +1,12 @@
-.body{
-    background: linear-gradient( orange, black 55%);
+body{
+    background: linear-gradient(rgba(255,165,0), rgba( 0,0,0 ) 55%);
 }
-.header{
+header{
     background-color: white;
     color: black;
 }
-.img{
-    border-radius: 5px;
+img{
+    border-radius: 15px;
     position: relative;
     justify-content: center;
 }

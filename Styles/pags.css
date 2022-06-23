@@ -1,11 +1,11 @@
-body{
+.body{
     background: linear-gradient( orange, black 55%);
 }
-header{
+.header{
     background-color: white;
     color: black;
 }
-img{
+.img{
     border-radius: 5px;
     position: relative;
     justify-content: center;
